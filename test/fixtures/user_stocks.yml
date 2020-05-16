@@ -1,11 +1,9 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  ticker: AAPL
-  name: Apple
-  last_price: 9.99
+  user: one
+  stock: one
 
 two:
-  ticker: GOOG
-  name: Alphabet
-  last_price: 9.99
+  user: two
+  stock: two
